@@ -1,0 +1,6 @@
+langchain
+openai
+chainlit
+python-dotenv
+langchain_core
+langchain_groq
