@@ -1,0 +1,8 @@
+__pycache__
+.chainlit
+.files
+include
+Lib
+Scripts
+.env
+pyvenv.cfg
